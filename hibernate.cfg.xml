@@ -15,6 +15,9 @@
         <mapping class="com.example.demo.domain.Categoria"/>
         <mapping class="com.example.demo.domain.Subcategoria"/>
         <mapping class="com.example.demo.domain.Deseado"/>
+        <mapping class="com.example.demo.domain.HistorialTruekes"/>
+        <mapping class="com.example.demo.domain.Trade"/>
+        <mapping class="com.example.demo.domain.Chat"/>
 
     </session-factory>
 </hibernate-configuration>
